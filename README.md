@@ -23,6 +23,6 @@ Mecze podzielone są na rundy. Drużyna, która jako pierwsza wygra 6 rund wygry
     * Podkładanie i rozbrajanie bomby
 * Mecze online do 10 graczy 5vs5
 
-Osoby w grupie projektowej:
+# Osoby w grupie projektowej:
 * Jan Dorniak - JanDorniak - nr. albumu: 175959
 * Paweł Głomski - Exepp - nr. albumu: 172026
