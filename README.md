@@ -16,7 +16,7 @@ Mecze podzielone są na rundy. Drużyna, która jako pierwsza wygra 6 rund wygry
 * Wyświetlanie stanu gry w 2D z widokiem top-down
     * Mapa
     * Gracze
-    * HUD (stan zdrowia, anmunicja, statystyki)
+    * HUD (stan zdrowia, amunicja, statystyki)
 * Sterowanie w czasie rzeczywistym
     * Poruszanie się po mapie
     * Atakowanie przeciwników
