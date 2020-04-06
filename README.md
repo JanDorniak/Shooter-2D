@@ -7,9 +7,9 @@ Mecze podzielone są na rundy. Drużyna, która jako pierwsza wygra 6 rund wygry
 #### Cel rundy
 * Terroryści
     * Zabicie wszystkich członków drużyny antyterrorystów
-    * Podłożenie bomby (każdy gracz ma bombe) w danym miejscu i jej zdetonowanie
+    * Podłożenie (trwa 3 sekundy, przerywane w momenciu ruchu lub strzału) bomby (każdy gracz ma bombe) w danym miejscu i jej zdetonowanie
 * Antyterroryści
-    * Zabicie wszystkich członków drużyny terrorystów lub rozbrojenie podłożonej bomby 
+    * Zabicie wszystkich członków drużyny terrorystów lub rozbrojenie (trwa 5 sekund, przerywane w momenciu ruchu lub strzału) podłożonej bomby 
     * Niedopuszczenie do podłożenia bomby w określonym czasie.
 
 ## Planowane elementy gry
